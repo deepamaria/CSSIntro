@@ -1,0 +1,102 @@
+/* hlközkd */
+ @import url('https://fonts.googleapis.com/css2?family=Mukta+Malar:wght@200;300;400;500;600;700;800&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap'); */ 
+  /* @import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap');
+
+body {
+background-color: blanchedalmond;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+}
+
+.H2 {
+    
+    color: blueviolet;
+    font-family: 'Lobster', cursive;
+}
+/* 
+.NORMAL {
+    font-style: normal;
+    font-family: 'Mukta Malar', sans-serif;
+    
+}
+
+.ITALIC {
+    font-style: italic;
+    font-family: 'Mukta Malar', sans-serif;
+    font-weight: 200;
+}
+
+.OBLIQUE {
+    font-style: oblique;
+    font-family: 'Mukta Malar', sans-serif;
+    font-weight: 800;
+
+} */
+
+/* .NORMAL {
+    font-style: normal;
+    font-family: 'PT Sans Narrow', sans-serif;    
+}
+
+.ITALIC {
+    font-style: italic;
+    /* font-family: 'Mukta Malar', sans-serif; */
+    /* font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: 200;
+}
+
+.OBLIQUE {
+    font-style: oblique;
+    /* font-family: 'Mukta Malar', sans-serif; */
+    /* font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: 800;
+
+/* }  */ */ */ */
+
+
+
+
+.justify {
+    font-family: 'Mukta Malar', sans-serif;
+    text-align: justify;
+}
+
+.left {
+    font-family: 'Mukta Malar', sans-serif;
+    text-align: left;
+}
+
+
+.right {
+    font-family: 'Mukta Malar', sans-serif;
+    text-align: right;
+}
+
+.center {
+    font-family: 'Mukta Malar', sans-serif;
+text-align: center;
+}
+
+.deco {
+    color: blue;
+    text-decoration-line: line-through;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 9px;
+}
+.deco1 {
+    text-decoration: underline 2px dotted green ;
+}
+
+.shadow {
+    text-shadow: 5px 5px 5px black;
+}
+
